@@ -1,3 +1,8 @@
+# Clone this project
+```
+git clone https://github.com/atulkamble/AWSWebsiteProject.git
+cd AWSWebsiteProject
+```
 # AWSWebsiteProject
 Hosting a Website in AWS EC2 Service
 detailed project for setting up and hosting a website on AWS EC2, including code snippets for configuration and deployment.
@@ -16,6 +21,11 @@ Set up and host a simple static website on an AWS EC2 instance.
 1. **AWS Account:** Create an AWS account if you don’t have one.
 2. **AWS CLI:** Install and configure the AWS Command Line Interface (CLI). [Download](https://aws.amazon.com/cli/)
 3. **EC2 Key Pair:** Create an EC2 key pair to access your instance.
+4. **Git**
+   ```
+   git config --global user.name "username"
+   git config --global user.email "email@gmail.com"
+   ```
 
 ---
 
