@@ -1,8 +1,8 @@
 # Hosting a Static Website on AWS EC2
 # Clone This Repository
 ```bash
-git clone https://github.com/atulkamble/AWSWebsiteProject.git
-cd AWSWebsiteProject
+git clone https://github.com/atulkamble/aws-ec2-static-website.git
+cd aws-ec2-static-website
 ```
 
 # AWSWebsiteProject
