@@ -1,4 +1,3 @@
-```markdown
 # Clone This Repository
 ```bash
 git clone https://github.com/atulkamble/AWSWebsiteProject.git
@@ -146,4 +145,3 @@ Establish and deploy a static website on an AWS EC2 instance.
 You have successfully set up and hosted a static website on an AWS EC2 instance. This guide walks you through launching an EC2 instance, installing a web server, and deploying a basic HTML page. For more advanced setups, consider integrating additional AWS services or using infrastructure-as-code tools such as Terraform or Ansible.
 
 ---
-```
